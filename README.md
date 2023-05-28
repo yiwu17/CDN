@@ -1,0 +1,2 @@
+# CDN
+wxapp_picture
